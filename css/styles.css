@@ -49,7 +49,7 @@ img {
 }
 
 .header-container {
-	padding: 24px 15px;
+
 }
 
 .header-navigation {
@@ -88,6 +88,7 @@ margin-right: 76px;
 }
 
 .header-item {
+	padding: 24px 0;
 
 }
 .header-item-link {
@@ -96,6 +97,7 @@ margin-right: 76px;
 	font-weight: 500;
 	line-height: 1.50;
 	letter-spacing: 0.02em;
+
 }
 
 .header-item-link:hover,
@@ -117,6 +119,7 @@ font-style: normal;
 	margin: 0;
 }
 .address-item {
+	padding: 24px 0;
 }
 
 .mod-mail {
