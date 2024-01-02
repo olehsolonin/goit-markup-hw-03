@@ -50,6 +50,10 @@ img {
 	
 }
 
+.header-container {
+	padding: 24px 0;
+}
+
 .header-navigation {
 	display: flex;
 	margin-right: 332px;
@@ -86,7 +90,7 @@ margin-right: 76px;
 }
 
 .header-item {
-	padding: 24px 0;
+
 }
 .header-item-link {
 	color:#2E2F42;
@@ -107,8 +111,8 @@ letter-spacing: 0.02em;
 
 .address {
 font-style: normal;
-padding: 24px 0;
 }
+
 .address-list {
 	display: flex;
 	gap: 40px;
