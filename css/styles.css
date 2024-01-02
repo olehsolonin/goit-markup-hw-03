@@ -22,6 +22,10 @@ button {
 	cursor: pointer;
 }
 
+img {
+	display: block
+}
+
 /* ---------------------------------------------------------------------- */
 
 /* ----------------------BODY------------------------- */
@@ -35,7 +39,6 @@ button {
 	align-items: center;
 	flex-shrink: 0;
 	border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
-	padding: 24px 0;
 }
 
 .container {
@@ -83,6 +86,7 @@ margin-right: 76px;
 }
 
 .header-item {
+	padding: 24px 0;
 }
 .header-item-link {
 	color:#2E2F42;
@@ -103,6 +107,7 @@ letter-spacing: 0.02em;
 
 .address {
 font-style: normal;
+padding: 24px 0;
 }
 .address-list {
 	display: flex;
@@ -179,6 +184,7 @@ vertical-align: middle;
 }
 
 .hero-btn {
+display: block;
 min-width: 169px;
 margin: 0 auto;
 height: 56px;
