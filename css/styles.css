@@ -23,7 +23,8 @@ button {
 }
 
 img {
-	display: block
+	display: block;
+	max-width: 100%;
 }
 
 /* ---------------------------------------------------------------------- */
@@ -379,7 +380,6 @@ background-color: #FFFFFF;
 .footer-link {
 	display: inline-block;
 	margin: 0;
-	margin-bottom: 16px;
 
 }
 
